@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A student Learning DSA and Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-gautamsharma&label=Profile%20views&color=0e75b6&style=flat" alt="i-gautamsharma" /> </p>
-
 - 🌱 I’m currently learning **DSA and Web Development.**
 
 - 📫 How to reach me **gautamsharma.official@outlook.com**
