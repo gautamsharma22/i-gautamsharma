@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A student Learning DSA, Web Development,Android</h3>
 
+- 🖤 Give Feedback. -> https://i-gautamsharma.github.io/static-portfolio/
+
 - 🌱 I’m currently learning **DSA and Web Development.**
 
 - 📫 How to reach me **gautamsharma.official@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
